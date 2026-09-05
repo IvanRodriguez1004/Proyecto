@@ -1,9 +1,9 @@
 ## Ecosistema de Mantenimiento Predictivo para Vehículos de Dos Ruedas
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Ivan Andrés Rodriguez Rodriguez
+- Rafael Alfonso Rivera Restrepo
+- Luis Eliecer Mendoza Perpiñan
 
 ## Descripción
 
